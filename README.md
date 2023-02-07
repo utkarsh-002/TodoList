@@ -1,6 +1,6 @@
 # Getting Started with Todo List React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built using react js in frontend part and todos list is stored on local storage of browser using localStorage function of react.js
 
 ## Available Scripts
 
